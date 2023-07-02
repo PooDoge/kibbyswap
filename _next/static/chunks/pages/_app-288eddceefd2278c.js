@@ -30519,7 +30519,7 @@
                               symbol: 'KIBBY',
                               decimals: 9,
                               image:
-                                'https://swap.kibby.app/kibble-token-logo.svg'
+                                './kibble-token-logo.svg'
                             }
                           })
                         )
