@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[255],{255:function(a,b,c){c.r(b);var d=c(4924),e=c(5893);c(7294);var f=c(7044),g=c(388),h=(0,d.Z)({},g.p5.mainNet.id.toString(),(0,f.AX)(g.p5.mainNet.id.toString()));b.default=function(a){var b=a.children,c=a.getLibrary,d=a.chain,f=h[d.id.toString()];return(0,e.jsx)(f,{getLibrary:c,children:b})}}}])
